@@ -112,4 +112,14 @@ m = bool(n)
 print("before :-", type(x), type(a), type(c), type(n))
 print("after  :-", type(y), type(b), type(d), type(m))
 ```
+### 🧠 Mini Task:
+
+* Simple “Hello, {name}” program
+
+* Calculator: Take two numbers, print their sum
+
+### 🛠️ Mini Project:
+
+* BMI Calculator: Input height & weight, print BMI
+
 
