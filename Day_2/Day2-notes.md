@@ -96,47 +96,12 @@ if num > 0:
 
 ## 🧠 Mini Task
 
-### 1. Odd/Even Checker
+##### 1. Odd/Even Checker
+##### 2. Grade Calculator
 
-```python
-num = int(input("Enter a number: "))
-if num % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
-```
+## 🛠️ Mini Project:
 
-### 2. Grade Calculator
+##### Simple Login System
 
-```python
-marks = int(input("Enter your marks: "))
-
-if marks >= 90:
-    print("Grade A")
-elif marks >= 75:
-    print("Grade B")
-elif marks >= 60:
-    print("Grade C")
-else:
-    print("Grade D")
-```
-
----
-
-## 🛠️ Mini Project: Simple Login System
-
-```python
-# Preset password
-correct_password = "python123"
-
-# Take user input
-user_password = input("Enter your password: ")
-
-# Check
-if user_password == correct_password:
-    print("Login successful!")
-else:
-    print("Incorrect password. Try again.")
-```
 
 ---
