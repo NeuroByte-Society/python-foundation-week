@@ -1,6 +1,6 @@
 # 🐍 Python Foundation Week – NeuroByte Society
 
-## 🚀 7-Day Crash Course in Python Programming
+## 🚀 14-Day Crash Course in Python Programming
 
 Welcome to the official GitHub repository for the **Python Foundation Week**, organized by NeuroByte Society. This program is designed to help beginners quickly get confident with Python basics before diving into libraries like NumPy, pandas, or TensorFlow.
 
