@@ -16,7 +16,13 @@ Welcome to the official GitHub repository for the **Python Foundation Week**, or
 | Day 4 | Strings and Methods |
 | Day 5 | Lists, Tuples, and Sets |
 | Day 6 | Dictionaries & Nested Structures |
-| Day 7 | Functions, File Handling, Error Handling |
+| Day 8 | Advanced Functions + Recursion |
+| Day 9 | Classes and Objects |
+| Day 10 | Inheritance + Encapsulation |
+| Day 11 | Polymorphism + Magic Methods |
+| Day 12 | File Handling - CSV & JSON |
+| Day 13 | Modules + Packages + Virtual Environments |
+| Day 14 | Final Integration Projects |
 
 ---
 
