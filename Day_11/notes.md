@@ -186,6 +186,18 @@ print(MathUtils.add(5, 3))  # 8
 
 ----------
 
+## 🧠 Summary
+
+-   **Polymorphism** = One name, many behaviors.
+    
+-   **Method Overriding** = Child class replaces parent class method.
+    
+-   **Magic Methods** let your objects integrate with built-in functions.
+    
+-   **Class Methods** work with the class itself.
+    
+-   **Static Methods** are utility functions inside classes.
+
 ## 🛠️ Practice Projects
 
 ### 1. Shape Class → Area Method for Circle, Square, Triangle
